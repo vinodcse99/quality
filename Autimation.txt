@@ -1,0 +1,12 @@
+manual
+maven
+github
+selenium
+jenkins
+agilescrum
+sql
+postman
+jmeter
+linux
+java scirpt
+secuirty
